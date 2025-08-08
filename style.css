@@ -1,0 +1,14 @@
+:root{
+    --font-footer: "Open Sans", sans-serif;
+    --color-main: #10375C;
+}
+*{
+    box-sizing: border-box;
+}
+html{
+    font-size: 62.5%;
+}
+.body{
+    font-size: 1.6rem;
+    font-family: "Sora", sans-serif;
+}
